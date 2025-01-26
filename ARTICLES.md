@@ -6,3 +6,4 @@
 4. [Not only DynamoDb migration/seed scripts](https://dev.to/pedchenkoroman/not-only-dynamodb-migration-or-seed-scripting-4h54)
 5. [Why you might want to build your own cli](https://dev.to/pedchenkoroman/why-you-might-want-to-build-your-own-cli-apd)
 6. [AWS Cognito + GraphQL directive = ACL with minimal effort](https://dev.to/pedchenkoroman/aws-cognito-graphql-directive-acl-with-minimal-effort-4dk8)
+7. [Kaizen or how to start/stop ec2](https://dev.to/pedchenkoroman/kaizen-or-how-to-startstop-ec2-18aa)
