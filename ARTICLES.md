@@ -9,3 +9,4 @@
 7. [Kaizen or how to start/stop ec2](https://dev.to/pedchenkoroman/kaizen-or-how-to-startstop-ec2-18aa)
 8. [10 Essential Questions to Improve One-on-One Meetings for Developers](https://dev.to/pedchenkoroman/10-essential-questions-to-improve-one-on-one-meetings-for-developers-1b6h)
 9. [Send reports safely via email(mailbox)](https://dev.to/pedchenkoroman/send-reports-safely-via-emailmailbox-3bao)
+10. [Pattern Actor in AWS environment](https://dev.to/pedchenkoroman/pattern-actor-in-aws-environment-2kpc)
